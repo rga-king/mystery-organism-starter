@@ -1,5 +1,5 @@
-# Project: mystery-organism-starter
-======================================
+Project: mystery-organism-starter
+=================================
 
 Description:
 ------------ 
