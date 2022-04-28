@@ -1,5 +1,6 @@
 // Codecademy project 
-// See xx for project requirements
+// mystery-organism-starters
+// See Project_Requirements.md for brief of requirements
 
 /* Returns a random DNA base
 */
