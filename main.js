@@ -75,7 +75,7 @@ const createSpecimens = numSpecimens => {
 }
 
 // Create 30 specimens of 'likely to survive' DNA for future research
-const futureSpecimens = createSpecimens(30);
+const futureSpecimens = createSpecimens(10);
 futureSpecimens.forEach(specimen => {
   console.log(`Specimen ID: ${specimen.specimenNum}`);
   console.log(`Specimen DNA: ${specimen.DNA}`);
