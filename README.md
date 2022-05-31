@@ -1,7 +1,5 @@
-# mystery-organism-starter
-
-Project Title: Myster Organism Starter
-======================================
+Project: mystery-organism-starter
+=================================
 
 Description:
 ------------ 
